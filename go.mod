@@ -1,4 +1,4 @@
-module github.com/MarceloZardoBR
+module github.com/zrdxs
 
 go 1.18
 
